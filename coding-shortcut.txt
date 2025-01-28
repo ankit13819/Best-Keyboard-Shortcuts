@@ -1,0 +1,66 @@
+Coding in VS Code (Popular IDE for Developers)
+
+File Management
+- Open File: Ctrl + O
+- Save File: Ctrl + S
+- Save All: Ctrl + Shift + S
+- Close File: Ctrl + W
+- Open Recent File: Ctrl + R
+- Create New File: Ctrl + N
+
+- Add a cursor on the line above/below:
+- Ctrl + Alt + Up Arrow → Add a cursor above.
+- Ctrl + Alt + Down Arrow → Add a cursor below.
+
+Navigation
+- Open File Quickly: Ctrl + P
+(Search and open files by typing their name)
+- Go to Line: Ctrl + G
+- Go to Definition: F12
+- Peek Definition: Alt + F12
+- Toggle Sidebar: Ctrl + B
+- Switch Tabs: Ctrl + Tab or Ctrl + Shift + Tab
+Code Editing
+- Copy Line: Ctrl + C (with no selection, copies the entire line)
+- Cut Line: Ctrl + X (with no selection, cuts the entire line)
+- Duplicate Line: Shift + Alt + Down Arrow
+Move Line Up/Down: Alt + Up/Down Arrow
+- Comment/Uncomment Line: Ctrl + /
+- Select Current Word: Ctrl + D
+- Multi-Cursor Selection: Ctrl + Alt + Up/Down Arrow
+- Format Code: Shift + Alt + F
+- Undo/Redo: Ctrl + Z / Ctrl + Y
+Search
+- Search in File: Ctrl + F
+- Search and Replace: Ctrl + H
+- Search Across Files: Ctrl + Shift + F
+
+Git Integration
+- - Open Git Panel: Ctrl + Shift + G
+- - Stage Changes: Ctrl + Alt + A
+- - Commit Changes: Ctrl + Enter (in Git panel)
+- 
+- Terminal Shortcuts
+- - Open Integrated Terminal: `Ctrl + ``
+- - Split Terminal: Ctrl + Shift + 5
+- - Focus Next Terminal: Ctrl + PageDown
+- - Clear Terminal: Ctrl + K
+- - Close Terminal: Ctrl + Shift + W
+- 
+- Browser Shortcuts (For Debugging)
+- Open DevTools: F12 or Ctrl + Shift + I
+- Inspect Element: Ctrl + Shift + C
+- Switch DevTools Panels: Ctrl + [Tab]
+- Refresh (Hard): Ctrl + F5
+- Windows System Shortcuts
+- Open File Explorer: Win + E
+- Switch Between Apps: Alt + Tab
+- Show Desktop: Win + D
+- Snap Window Left/Right: Win + Arrow Key
+- Open Search Bar: Win + S
+- Run Command: Win + R
+- Keyboard-Only Development Workflow Tips
+- Use Emmet: For HTML/CSS shorthand (e.g., div.container>ul>li*3 → generates code).
+- Custom Keyboard Shortcuts:
+- Go to File > Preferences > Keyboard Shortcuts in VS Code to create your shortcuts for frequently used actions.
+- Install Terminal Tools: Use tools like Oh My Zsh (if using WSL/Unix) or Cmder for better terminal shortcuts.
